@@ -1,0 +1,8 @@
+name: AudioConnectAddon
+version: 1.0.1
+author: Bart
+main: me.bartvv.audioconnectaddon.AudioConnect
+api-version: 1.15
+depend:
+- AudioConnect
+- EliteMobs

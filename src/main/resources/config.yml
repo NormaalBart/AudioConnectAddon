@@ -1,0 +1,20 @@
+# How many seconds should the player not attack the mob until the audiotrack stops?
+combat-prevent: 30
+mobs:
+   '&4Balrog':
+      day:
+         #trackId: audioId
+         'primary': '*'
+         'background': '*'
+      night:
+         #trackId: audioId
+         'primary': '*'
+         'background': '*'
+      morning:
+         #trackId: audioId
+         'primary': '*'
+         'background': '*'
+      afternoon:
+         #trackId: audioId
+         'primary': '*'
+         'background': '*'
